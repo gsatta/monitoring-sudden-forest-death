@@ -7,7 +7,7 @@ The application integrates data from Sentinel-2 and other Earth Engine datasets 
 
 
 ## How it works?
-0. **User Interface**: Users can adjust cloud coverage thresholds and input different date ranges through an intuitive UI. Results are displayed on the map with a custom legend.
+0. **User Interface**: Users can adjust cloud coverage thresholds and input different date ranges through an intuitive UI. Furtermore users can select the regions of interest (Sarinia or Corsica). Results are displayed on the map with a custom legend.
 1. **Data Selection**: Users can select two date ranges to compare vegetation health over time. The application uses cloud-filtered Sentinel-2 imagery for the selected periods. It is important that the two date ranges are not too wide
 2. **Tree Coverage Detection**: The script filters for high-probability tree coverage, generating a binary tree mask based on [Dynamic World’s](https://dynamicworld.app/) tree probability layer.
    
