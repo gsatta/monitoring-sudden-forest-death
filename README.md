@@ -17,12 +17,12 @@ The application integrates data from Sentinel-2 and other Earth Engine datasets 
 4. **Normalized Green Red Difference Index (NGRDI)**: The app calculates the [NGRDI](https://www.indexdatabase.de/db/i-single.php?id=390) for both selected periods to highlight changes in vegetation health.
 5. **Delta NGRDI Calculation**: A change detection algorithm computes the difference between NGRDI values of the two time intervals. Negative differences indicate vegetation decline.
 6. **Patches Identification**: Areas with significant vegetation loss (ΔNGRDI < -0.1) are identified and visualized. These patches are also filtered by size, retaining only areas larger than 1 hectare.
-7. **Total Affected Area Calculation**: The total area of forest loss is calculated and displayed in hectares.
+7. **Total Affected Area Calculation**: The total area of symptomatic forest is calculated and displayed in hectares.
 
 ![image](https://github.com/user-attachments/assets/9574c884-51df-4f78-bd8e-88205f8f13e1)
 
 
-This repository provides tools, methods, and resources to help researchers, ecologists, and forestry professionals detect and monitor the alarming phenomenon of Sudden Forest Death, particularly in the forests of Sardinia.
+In conclusion this repository provides tools, methods, and resources to help researchers, ecologists, and forestry professionals detect and monitor the alarming phenomenon of Sudden Forest Death, particularly in the forests of Sardinia.
 
 
 
