@@ -1,4 +1,4 @@
-# Monitorin sudden forest desiccation
+# Monitor and Quantify Sudden Forest Death in Sardinia.
 This is the repository where you can find information and guidance on how to monitor and detect Sudden Forest Death in Sardinia.
 
 ![image](https://github.com/user-attachments/assets/96b24bae-6156-4e65-bd59-80b9fa314934)
