@@ -22,7 +22,7 @@ In conclusion this repository provides tools, methods, and resources to help res
 
 ## How to use it?
 
-![image](https://github.com/user-attachments/assets/f43a0ba5-10c0-40e8-ba97-55025029914e)
+![App presentation](https://github.com/user-attachments/assets/7e6ead98-2534-4dc6-a95d-b1dab02fc1ea)
 
 
 
