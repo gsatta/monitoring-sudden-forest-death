@@ -2,7 +2,7 @@
 
 # Monitor and Quantify Sudden Forest Death in Sardinia.
 This repository provides information about an [app](https://ee-sattagabrielega2.projects.earthengine.app/view/monitoraggiomoriaquerce) developed to analyze and monitor [Sudden Forest Death in Sardinia](https://www.ildolomiti.it/altra-montagna/ambiente/2024/crisi-dei-boschi-in-sardegna-la-regione-stanzia-oltre-un-milione-di-euro-per-individuare-soluzioni-e-incrementare-il-monitoraggio?fbclid=IwY2xjawE8BqFleHRuA2FlbQIxMQABHdW1rBfI_5mGb-H0-TFj_Sw0if4RmvzGPNbVCG8U65dgW_ISv2t79afK4A_aem_xziHfAe9isCuQji6C3Ir0Q) using satellite imagery and vegetation indices. 
-The application integrates data from Sentinel-2 and other Earth Engine datasets to visualize and quantify areas where forest decline has been detected.
+The application integrates data from the Sentinel-2 satellite and other Earth Engine datasets to facilitate the visualization and quantification of areas where forest decline has been detected.
 
 ## How it works?
 0. **User Interface**: Users can adjust cloud coverage thresholds and input different date ranges through an intuitive UI. Furthermore users can select the regions of interest (Sarinia or Corsica). Results are displayed on the map with a custom legend.
